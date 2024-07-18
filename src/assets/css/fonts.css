@@ -1,0 +1,29 @@
+@font-face {
+    font-family: PTSerif;
+    font-weight: 400;
+    src: url("../fonts/pt-serif/PTSerif-Regular.ttf");
+}
+
+@font-face {
+    font-family: PTSerif;
+    font-weight: 700;
+    src: url("../fonts/pt-serif/PTSerif-Bold.ttf");
+}
+
+@font-face {
+    font-family: Roboto;
+    font-weight: 400;
+    src: url("../fonts/roboto/Roboto-Regular.ttf");
+}
+
+@font-face {
+    font-family: Merriweather;
+    font-weight: 400;
+    src: url("../fonts/merriweather/Merriweather-Regular.ttf");
+}
+
+@font-face {
+    font-family: YesevaOne;
+    font-weight: 400;
+    src: url("../fonts/yeseva-one/YesevaOne-Regular.ttf");
+}
